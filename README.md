@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=고영준&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn)<br/>
+
 <a href="https://www.linkedin.com/in/robert-june-5841bb200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
 
 Hello there!👋 I'm Software Developer using React and TypeScript.👨‍💻<br/>
