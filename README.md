@@ -36,7 +36,7 @@
 [mail]: https://img.shields.io/badge/Mail-ea4335?style=flat&logoColor=white&logo=Gmail
 [notion]: https://img.shields.io/badge/Notion:_Second_Brain-white?style=flat&logoColor=black&logo=Notion
 
-[header]:https://capsule-render.vercel.app/api?type=venom&height=200&color=0:6186ff,100:a82da8&text=끊임없는%20성장을%20추구하는%20고영준입니다.&reversal=false&textBg=false&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=b5c6ff
+[header]:https://capsule-render.vercel.app/api?type=venom&height=200&color=0:6186ff,100:a82da8&text=끝없는%20성장을%20추구하는%20고영준입니다.&reversal=false&textBg=false&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=b5c6ff
 
 [stats]: https://github-readme-stats.vercel.app/api?username=yeongjunekoh&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff
 
