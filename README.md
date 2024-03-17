@@ -1,9 +1,15 @@
+## ⭐️ Introduce me
 
-<a href="https://www.linkedin.com/in/robert-june-5841bb200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
+[![][linkedin]](www.linkedin.com/in/yeoungjunekoh)
+[![][mail]](mailto:yeongjunekoh@gmail.com)
+[![][notion]](https://june-vital.notion.site/07a44815de954bfaaed8a539bc222946?v=5ca855edc11e4500b7c3993f01350e37&pvs=4)
+[![][medium]](https://medium.com/@robertjune)
 
-Hello there!👋 I'm Software Developer using React and TypeScript.👨‍💻<br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyun-jeon-b02a1419a/)](https://www.linkedin.com/in/robert-june-5841bb200/)
-[![Medium Badge](http://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&link=https://medium.com/@a01058406602)](https://robertjune.medium.com/)
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/stark_jeon_/?hl=ko)](https://www.instagram.com/__ky_june_/)
+[linkedin]: https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logoColor=white&logo=LinkedIn
+[medium]: https://img.shields.io/badge/Medium-000000?style=flat&logoColor=white&logo=Medium
+[mail]: https://img.shields.io/badge/Mail-ea4335?style=flat&logoColor=white&logo=Gmail
+[notion]: https://img.shields.io/badge/Notion:_Second_Brain-white?style=flat&logoColor=black&logo=Notion
+
+[stats]: https://github-readme-stats.vercel.app/api?username=yeongjunekoh&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff
 
