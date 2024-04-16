@@ -16,7 +16,7 @@
 [![][medium]](https://medium.com/@robertjune)
 
 ## ⚙️ My Stacks
-🖥 [Client Side] React, React-native
+🖥 [Client Side] Next, React, React-native
 
 ⚙️ [Server Side] Node.js
 
